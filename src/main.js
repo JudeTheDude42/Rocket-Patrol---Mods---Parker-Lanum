@@ -1,6 +1,6 @@
 // Parker Lanum
 // Rocket Patrol 2: Rocket Geniuses
-// 1:45pm
+// 4.5 hours total work time
 //
 // Added Supership that moves at lightning speeds but worth 100 points (+5 pts)
 // Added a timer (+3 pts)
